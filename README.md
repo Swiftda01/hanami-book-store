@@ -1,6 +1,6 @@
 # Bookshelf
 
-Welcome to your new Hanami project!
+A practice app built using the 'Getting Started' guide for the Hanami framework
 
 ## Setup
 
